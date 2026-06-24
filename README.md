@@ -49,7 +49,7 @@ Computer Engineering student building **applied AI and embedded systems** — fr
 
 ## 📂 Featured Projects
 
-### 🚗 [Driver Fatigue Monitoring Pipeline](https://github.com/hasssan-ranjha/[REPO_NAME])
+### 🚗 [Driver Fatigue Monitoring Pipeline](https://github.com/hasssan-ranjha/Real-time-driver-drowsiness-detection)
 Real-time drowsiness detection system using a MobileNetV2 model achieving **92.45% accuracy**, trained on a dataset of 73,900+ images. Uses OpenCV for live frame processing, with a Streamlit + WebRTC interface deployed on Hugging Face for browser-based, real-time inference.
 `Python` `TensorFlow/Keras` `OpenCV` `Streamlit` `WebRTC`
 
