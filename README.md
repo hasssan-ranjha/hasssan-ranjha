@@ -62,8 +62,14 @@ Full-stack movie recommendation web app using content-based filtering with sciki
 `Python` `Flask` `scikit-learn` `Docker`
 
 ### 🐄 [Dairy Farm Management System](https://github.com/hasssan-ranjha/Dairy-Farm-Management-System)
-Desktop application built in JavaFX to digitize day-to-day operations at a working dairy and cattle farm — [KEY_FEATURE_1, e.g. "milk yield tracking"], [KEY_FEATURE_2, e.g. "feed & inventory records"], backed by a [DATABASE_TYPE, e.g. MySQL/SQLite] database. Currently in active development.
-`Java` `JavaFX` `[DATABASE_TYPE]`
+# 🐄 Dairy Farm Management System
+
+Desktop application built in JavaFX to digitize day-to-day operations at a working dairy and cattle farm — featuring complete livestock lifecycle tracking and automated financial analytics, backed by local CSV data persistence with an active SQL migration underway. Currently in active development.
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white)
+![CSV](https://img.shields.io/badge/Data--Persistence-CSV-%2331E1F7.svg?style=for-the-badge&logo=database&logoColor=black)
+![SQL](https://img.shields.io/badge/Database-SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
